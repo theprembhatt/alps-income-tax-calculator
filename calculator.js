@@ -40,4 +40,3 @@ document.addEventListener('DOMContentLoaded', function() {
       resultContainer.style.display = 'block';
     });
   });
-  
